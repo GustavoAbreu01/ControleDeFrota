@@ -1,0 +1,54 @@
+--Cadastro e Gestão de Veículos--
+Título: Cadastrar novos veículos (modelo, placa, ano de fabricação, etc.).
+Descrição: O sistema deve poder cadastrar novos veículos, com as seguintes informações modelo, marca, ano de fabricação, kilometragem e placa.
+
+Título: Atualizar dados de veículos.
+Descrição: O sistema deve poder atualizar as informações dos veículos cadastrados.
+
+Título: Consultar informações de veículos (histórico de manutenções, consumo de combustível, etc.).
+Descrição: O sistema deve poder mostrar as informações como informações modelo, marca, ano de fabricação, kilometragem e placa dos véiculos que estão cadastrados.
+
+Título: Realizar baixa de veículos.
+Descrição: O sistema de possuir a opção de dar baixa nos veículos cadastrados.
+
+
+--Cadastro e Gestão de Motoristas--
+Título: Cadastrar novos motoristas (nome, CPF, CNH, etc.).
+Descrição: O sistema deve poder cadastrar novos motoristas, com as seguintes informações nome, CPF, CNH e número.
+
+Título: Atualizar dados de motoristas.
+Descrição: O sistema deve poder atualizar as informações dos motoristas cadastrados.
+
+Título: Consultar informações de motoristas (histórico de condução, infrações, etc.).
+Descrição:O sistema deve poder mostrar as informações como informações nome, CPF, CNH e número que estão cadastrados.
+
+Título: Associar motoristas a veículos.
+Descrição: O sistema deve poder associar os veículos com os motoristas que os utilizarão.
+
+
+--Gerenciamento de Rotas--
+Título: Planejar rotas de entrega ou coleta.
+Descrição: O sistema deve conter a possibilidade de planejar as rotas dos veículos, durante entregas e coletas.
+
+Título: Monitorar a localização dos veículos em tempo real.
+Descrição: O sistema deve poder monitorar 
+
+Título: Gerar relatórios de rotas realizadas.
+Descrição: 
+
+
+
+d. Gerenciamento de Manutenções:
+Título: Agendar manutenções preventivas e corretivas.
+Título: Registrar a execução de manutenções.
+Título: Gerar relatórios de custos com manutenção.
+
+
+e. Gerenciamento de Combustível:
+Título: Registrar abastecimentos.
+Título: Calcular o consumo médio dos veículos.
+Título: Gerar relatórios de consumo de combustível.
+
+
+f. Gerenciamento de Documentação:
+Título: Armazenar documentos relacionados aos veículos e motoristas (licenciamento, seguro, etc.)
