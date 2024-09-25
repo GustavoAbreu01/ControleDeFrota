@@ -1,0 +1,59 @@
+RNF001 - Segurança
+Título: Segurança
+Descrição: O sistema deve garantir a segurança dos dados dos motoristas e veículos.
+Prioridade: Essencial
+
+RNF002 - Usabilidade
+Título: Usabilidade
+Descrição: O sistema deve ser de fácil utilização.
+Prioridade: Essencial
+
+RNF003 - Desempenho
+Título: Desempenho
+Descrição: O sistema deve ser rápido e eficiente.
+Prioridade: Importante
+
+RNF004 - Confiabilidade
+Título: Confiabilidade
+Descrição: O sistema deve ser confiável.
+Prioridade: Importante
+
+RNF005 - Manutenibilidade
+Título: Manutenibilidade
+Descrição: O sistema deve ser de fácil manutenção.
+Prioridade: Importante
+
+RNF006 - Portabilidade
+Título: Portabilidade
+Descrição: O sistema deve ser portável.
+Prioridade: Importante
+
+RNF007 - Escalabilidade
+Título: Escalabilidade
+Descrição: O sistema deve ser escalável.
+Prioridade: Importante
+
+RNF008 - Disponibilidade
+Título: Disponibilidade
+Descrição: O sistema deve estar disponível 24 horas por dia.
+Prioridade: Importante
+
+RNF009 - Integração
+Título: Integração
+Descrição: O sistema deve ser integrado com outros sistemas.
+Prioridade: Importante
+
+RNF010 - Documentação
+Título: Documentação
+Descrição: O sistema deve possuir documentação clara e completa.
+Prioridade: Importante
+
+RNF011 - Treinamento
+Título: Treinamento
+Descrição: O sistema deve possuir treinamento para os usuários.
+Prioridade: Importante
+
+RNF012 - Suporte
+Título: Suporte
+Descrição: O sistema deve possuir suporte técnico.
+Prioridade: Importante

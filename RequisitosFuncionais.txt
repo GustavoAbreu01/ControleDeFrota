@@ -1,54 +1,106 @@
---Cadastro e Gestão de Veículos--
+---Cadastro e Gestão de Veículos---
+
+RF001 - Cadastrar novos veículos (modelo, placa, ano de fabricação, etc.).
 Título: Cadastrar novos veículos (modelo, placa, ano de fabricação, etc.).
 Descrição: O sistema deve poder cadastrar novos veículos, com as seguintes informações modelo, marca, ano de fabricação, kilometragem e placa.
+Prioridade: Essencial
 
+RF002 - Atualizar dados de veículos.
 Título: Atualizar dados de veículos.
 Descrição: O sistema deve poder atualizar as informações dos veículos cadastrados.
+Prioridade: Essencial
 
+RF003 - Consultar informações de veículos (histórico de manutenções, consumo de combustível, etc.).
 Título: Consultar informações de veículos (histórico de manutenções, consumo de combustível, etc.).
 Descrição: O sistema deve poder mostrar as informações como informações modelo, marca, ano de fabricação, kilometragem e placa dos véiculos que estão cadastrados.
+Prioridade: Essencial
 
+RF004 - Realizar baixa de veículos.
 Título: Realizar baixa de veículos.
 Descrição: O sistema de possuir a opção de dar baixa nos veículos cadastrados.
+Prioridade: Importante
 
 
---Cadastro e Gestão de Motoristas--
+---Cadastro e Gestão de Motoristas---
+
+RF005 - Cadastrar novos motoristas (nome, CPF, CNH, etc.).
 Título: Cadastrar novos motoristas (nome, CPF, CNH, etc.).
 Descrição: O sistema deve poder cadastrar novos motoristas, com as seguintes informações nome, CPF, CNH e número.
+Prioridade: Essencial
 
+RF006 - Atualizar dados de motoristas.
 Título: Atualizar dados de motoristas.
 Descrição: O sistema deve poder atualizar as informações dos motoristas cadastrados.
+Prioridade: Essencial
 
+RF007 - Consultar informações de motoristas (histórico de condução, infrações, etc.).
 Título: Consultar informações de motoristas (histórico de condução, infrações, etc.).
 Descrição:O sistema deve poder mostrar as informações como informações nome, CPF, CNH e número que estão cadastrados.
+Prioridade: Essencial
 
+RF008 - Realizar desligamento de motoristas.
 Título: Associar motoristas a veículos.
 Descrição: O sistema deve poder associar os veículos com os motoristas que os utilizarão.
+Prioridade: Importante
 
 
---Gerenciamento de Rotas--
+---Gerenciamento de Rotas---
+
+RF009 - Planejar rotas de entrega ou coleta.
 Título: Planejar rotas de entrega ou coleta.
 Descrição: O sistema deve conter a possibilidade de planejar as rotas dos veículos, durante entregas e coletas.
+Prioridade: Importante
 
+RF010 - Monitorar a localização dos veículos em tempo real.
 Título: Monitorar a localização dos veículos em tempo real.
-Descrição: O sistema deve poder monitorar 
+Descrição: O sistema deve poder monitorar, em tempo real, a localização dos veículos.
+Prioridade: Importante
 
+RF011 - Registrar rotas realizadas.
 Título: Gerar relatórios de rotas realizadas.
-Descrição: 
+Descrição: O sistema deve poder gerar relatórios com as rotas realizadas pelos veículos.
+Prioridade: Importante
 
 
+---Gerenciamento de Manutenções---
 
-d. Gerenciamento de Manutenções:
+RF012 - Agendar manutenções preventivas e corretivas.
 Título: Agendar manutenções preventivas e corretivas.
+Descrição: O sistema deve poder agendar manutenções preventivas e corretivas.
+Prioridade: Importante
+
+RF013 - Registrar a execução de manutenções.
 Título: Registrar a execução de manutenções.
+Descrição: O sistema deve poder registrar a execução de manutenções.
+Prioridade: Importante
+
+RF014 - Gerar relatórios de custos com manutenção.
 Título: Gerar relatórios de custos com manutenção.
+Descrição: O sistema deve poder gerar relatórios com os custos das manutenções realizadas.
+Prioridade: Importante
 
 
-e. Gerenciamento de Combustível:
+---Gerenciamento de Combustível---
+
+RF015 - Registrar abastecimentos.
 Título: Registrar abastecimentos.
+Descrição: O sistema deve poder registrar os abastecimentos dos veículos.
+Prioridade: Importante
+
+RF016 - Calcular o consumo médio dos veículos.
 Título: Calcular o consumo médio dos veículos.
+Descrição: O sistema deve poder calcular o consumo médio dos veículos.
+Prioridade: Importante
+
+RF017 - Gerar relatórios de consumo de combustível.
 Título: Gerar relatórios de consumo de combustível.
+Descrição: O sistema deve poder gerar relatórios com o consumo de combustível dos veículos.
+Prioridade: Importante
 
 
-f. Gerenciamento de Documentação:
+---Gerenciamento de Documentação---
+
+RF018 - Armazenar documentos relacionados aos veículos e motoristas (licenciamento, seguro, etc.).
 Título: Armazenar documentos relacionados aos veículos e motoristas (licenciamento, seguro, etc.)
+Descrição: O sistema deve poder armazenar documentos relacionados aos veículos e motoristas.
+Prioridade: Importante
